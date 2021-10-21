@@ -1,0 +1,10 @@
+#nome-gabriel{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.5s;
+    cursor: pointer;
+    
+}
+#nome-gabriel:hover{
+    transform: scale(0.8);
+
+}
